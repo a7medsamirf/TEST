@@ -1,0 +1,51 @@
+{
+  "common":{  
+      "Lorem-text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+  },
+  "nav": {
+    "Home": "Home",
+    "Auctions": "Auctions",
+    "Connectus": "Connect Us",
+    "signin": "Sign In",
+    "Products": "Products",
+    "Test": "Test",
+    "Blog": "Blog",
+    "Directory": "Directory",
+    "About":"About Us",
+    "Roadmapclub":"Roadmap club"
+  },
+  "Hero": {
+    "SectionTitle": "Add SoumTech wherever you are",
+    "SectionSubtitle": "SoumTech platform brings you the ability to view real estate or participate in an auction easily and quickly in a reliable electronic environment!"
+  },
+  "partners":{
+    "SectionTitle": "Auction Companies"
+  },
+  "Auctions":{
+    "SectionTitle": "تعلم أكثر",
+    "CardTitle": "Villa Al-Ikhlas",
+    "Street-Dammam": "Al-Ikhlas Street - Dammam",
+    "button": "Auction details",
+    "Allauctions": "All auctions",
+    "Number": "Assets",
+    "day": "Day",
+    "hour": "Hour",
+    "minute": "Minute",
+    "second": "Second"
+  },
+  "Footer":{
+    "MainMenu": "Main Menu",
+    "sections": "Sections",
+    "Connectus": "Connect Us",
+    "Advertising": "Advertising Controls",
+    "Terms": "Terms and Conditions",
+    "Authority": "Authority license",
+    "Support": "Support library",
+    "questions": "questions",
+    "Riyadh":"Riyadh, King Faisal District, Saudi Arabia",
+    "reserved": "© All rights reserved - SoumTech 2024"
+  },
+  "app_title": "SoumTech",
+  "home_title": "Home"
+  }
+
