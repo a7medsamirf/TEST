@@ -7,11 +7,11 @@ const links = [
   },
   {
     name: "nav.Auctions",
-    to: "/Auctions",
+    to: "",
   },
   {
     name: "nav.Connectus",
-    to: "/Connectus",
+    to: "",
   }
 ];
 </script>
